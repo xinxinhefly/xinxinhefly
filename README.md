@@ -7,11 +7,11 @@
 ### 🇨🇳 中文
 16年+ 开发经验的资深软件工程师。专注于 **Android (Kotlin MAD)**、**Web 前端 (Vue.js / TypeScript)** 与**微信小程序**的全栈交付与架构设计，追求高质量与高可维护性的工程实践。
 
-### 🇯🇵 日本語
-16年以上の開発経験を持つシニアソフトウェアエンジニアです。主に **Android (Kotlin MAD)**、**Webフロントエンド (Vue.js / TypeScript)**、**ミニプログラム** の開発とアーキテクチャ設計に注力しています。高品質で保守性の高いコードを書くことを心がけています。
-
 ### 🇬🇧 English
 Senior Software Engineer with 16+ years of experience. Specializing in **Android (Kotlin MAD)**, **Web Frontend (Vue.js / TypeScript)**, and **Mini-Programs**. Focused on clean architecture, scalable code, and delivering high-quality software solutions.
+
+### 🇯🇵 日本語
+16年以上の開発経験を持つシニアソフトウェアエンジニアです。主に **Android (Kotlin MAD)**、**Webフロントエンド (Vue.js / TypeScript)**、**ミニプログラム** の開発とアーキテクチャ設計に注力しています。高品質で保守性の高いコードを書くことを心がけています。
 
 ---
 
