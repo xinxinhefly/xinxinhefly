@@ -55,7 +55,7 @@ Senior Software Engineer with 16+ years of experience. Specializing in **Android
 
 ## 📫 联系我 (Connect with me)
 
-- **Email**: `xinxinhefly [at] gmail [dot] com`
+- **Email**: [xinxinhefly@gmail.com](mailto:xinxinhefly@gmail.com)
 - **GitHub**: [https://github.com/xinxinhefly](https://github.com/xinxinhefly)
 
 <p align="center">
